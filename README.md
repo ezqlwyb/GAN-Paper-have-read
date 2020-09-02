@@ -30,7 +30,7 @@ GAN-Papers-have-read
 * PacGAN - [PacGAN: The power of two samples in generative adversarial networks](https://arxiv.org/abs/1712.04086) 
 * Progressive GAN - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) ([github](https://github.com/tkarras/progressive_growing_of_gans)) 
 * SAGAN - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) 
-* SN-GAN - [Spectral Normalization for Generative Adversarial Networks](https://drive.google.com/file/d/0B8HZ50DPgR3eSVV6YlF3XzQxSjQ/view) ([github](https://github.com/pfnet-research/chainer-gan-lib))
+* SN-GAN - [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) ([github](https://github.com/pfnet-research/chainer-gan-lib))
 * Triple-GAN - [Triple Generative Adversarial Nets](https://arxiv.org/abs/1703.02291v2) 
 * Unrolled GAN - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) ([github](https://github.com/poolio/unrolled_gan))
 * VAE-GAN - [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300) 

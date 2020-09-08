@@ -40,7 +40,7 @@ GAN-Papers-have-read
 * WGAN Prequel [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)
 * WGAN - [Wasserstein GAN](https://arxiv.org/abs/1701.07875v2) ([github](https://github.com/martinarjovsky/WassersteinGAN))
 * WGAN-GP - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) ([github](https://github.com/igul222/improved_wgan_training))
-
+* β-GAN - [Annealed Generative Adversarial Networks](https://arxiv.org/abs/1705.07505) 
 
 GAN-Papers-have-not-read
 ---------------------------------
@@ -504,6 +504,5 @@ GAN-Papers-have-not-read
 * XGAN - [XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings](https://arxiv.org/abs/1711.05139) 
 * ZipNet-GAN - [ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network](https://arxiv.org/abs/1711.02413) 
 * α-GAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987) ([github](https://github.com/victor-shepardson/alpha-GAN))
-* β-GAN - [Annealed Generative Adversarial Networks](https://arxiv.org/abs/1705.07505) 
 * Δ-GAN - [Triangle Generative Adversarial Networks](https://arxiv.org/abs/1709.06548) 
 
